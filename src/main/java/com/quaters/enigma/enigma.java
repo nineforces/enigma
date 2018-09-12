@@ -1,4 +1,4 @@
-package main;
+package com.quaters.enigma;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
